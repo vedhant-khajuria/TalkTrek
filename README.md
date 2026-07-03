@@ -137,7 +137,7 @@ TalkTrek/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TalkTrek.git
+git clone https://github.com/vedhant-khajuria/TalkTrek.git
 ```
 
 Move into the project
